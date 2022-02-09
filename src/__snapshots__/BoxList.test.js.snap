@@ -1,0 +1,84 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="container mt-3 "
+  >
+    <h2
+      class="d-flex justify-content-center"
+    >
+      Let's make some color box 🥳🥳🥳
+    </h2>
+    <form>
+      <div
+        class="row g-3 align-items-center d-flex justify-content-center mt-4"
+      >
+        <div
+          class="col-auto"
+        >
+          <label
+            class="form-label"
+            for="color"
+          >
+            Color
+          </label>
+          <input
+            class="form-control"
+            id="color"
+            name="color"
+            placeholder="color"
+            type="text"
+            value=""
+          />
+        </div>
+        <div
+          class="col-auto"
+        >
+          <label
+            class="form-label"
+            for="width"
+          >
+            Width
+          </label>
+          <input
+            class="form-control"
+            id="width"
+            name="width"
+            placeholder="width"
+            type="text"
+            value=""
+          />
+        </div>
+        <div
+          class="col-auto"
+        >
+          <label
+            class="form-label"
+            for="height"
+          >
+            Height
+          </label>
+          <input
+            class="form-control"
+            id="height"
+            name="height"
+            placeholder="height"
+            type="text"
+            value=""
+          />
+        </div>
+        <button
+          class="btn btn-success mt-2"
+          style="width: 50%;"
+        >
+          Submit
+        </button>
+      </div>
+    </form>
+    <div
+      class="row row-cols-2"
+    />
+  </div>
+</DocumentFragment>
+`;
